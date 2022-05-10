@@ -28,9 +28,9 @@
       "minorVersion": 5
     },
     {
-      "machineName": "H5P.MultiMediaChoice",
+      "machineName": "H5P.MultiMediaChoiceWithFeedback",
       "majorVersion": 0,
-      "minorVersion": 1
+      "minorVersion": 3
     }
   ],
   "editorDependencies": [
