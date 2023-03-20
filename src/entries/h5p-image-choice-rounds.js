@@ -3,4 +3,4 @@ import ImageChoiceRounds from '../scripts/h5p-image-choice-rounds';
 
 // Load library
 H5P = H5P || {};
-H5P.ImageChoiceRounds = ImageChoiceRounds;
+H5P.ImageChoiceRoundsWithFeedback = ImageChoiceRounds;

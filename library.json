@@ -1,5 +1,5 @@
 {
-  "title": "Image Choice Rounds",
+  "title": "Image Choice Rounds with Feedback and Zooming",
   "description": "Run H5P Image Choice content in multiple rounds",
   "majorVersion": 1,
   "minorVersion": 0,
@@ -7,7 +7,7 @@
   "runnable": 1,
   "author": "Oliver Tacke",
   "license": "MIT",
-  "machineName": "H5P.ImageChoiceRounds",
+  "machineName": "H5P.ImageChoiceRoundsWithFeedback",
   "embedTypes": [
     "iframe"
   ],
@@ -28,9 +28,9 @@
       "minorVersion": 5
     },
     {
-      "machineName": "H5P.MultiMediaChoice",
+      "machineName": "H5P.MultiMediaChoiceWithFeedback",
       "majorVersion": 0,
-      "minorVersion": 1
+      "minorVersion": 3
     }
   ],
   "editorDependencies": [
